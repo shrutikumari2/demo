@@ -1,3 +1,4 @@
 # demo
-This is my first Git Repository
-author - shruti shukla
+This is my first Git Repository.
+<br>
+Author - shruti shukla
